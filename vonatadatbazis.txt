@@ -1,0 +1,3 @@
+Vonat;Budapest;Siofok;2000;4536;200;11;30;14;20;2;86;4;50;4;! 
+Vonat;Kanizsa;Zalaegerszeg;3000;536;200;15;50;19;10;0;40;5;! 
+Vonat;Becs;Budapest;4500;34788;150;8;45;12;30;0;50;3;! 
